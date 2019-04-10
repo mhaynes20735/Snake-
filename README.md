@@ -1,5 +1,5 @@
 JavaScript Snake<br/>
-By Patrick Gillespie<br/>
+By Michael Haynes<br/>
 License: MIT<br/>
 http://patorjk.com/games/snake
 
